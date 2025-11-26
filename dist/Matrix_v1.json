@@ -670,7 +670,7 @@
     "ID": "KK8KZ5",
     "Bezeichnung": "Looted Art",
     "Beschreibung": "Auf Grund einer Initiative der Commission for Looted Art in Europe (CLAE) wurde ein zentrales Register ins Leben gerufen, das im Sinne der Washingtoner Prinzipien als zentrales Repositorium für Informationen über NS-Raubgut und die gegenwärtigen Bemühungen um die Erforschung und Klärung offener Fragen dienen soll. Zwei Datenbanken sind online verfügbar: Die Informationsdatenbank enthält Informationen und Dokumentationen aus 49 Ländern, darunter Gesetze und Richtlinien, Berichte und Veröffentlichungen, Archivunterlagen und Ressourcen, aktuelle Fälle und relevante Websites. Die Objektdatenbank enthält Details zu über 25.000 Objekten aller Art - Gemälde, Zeichnungen, Antiquitäten, Judaica usw. -, die aus mehr als fünfzehn Ländern geraubt wurden, fehlen und/oder identifiziert wurden.",
-    "URL": "lootedart.com",
+    "URL": "https://lootedart.com",
     "NetzwerkeServices": true,
     "DigitaleAnwendungen": false,
     "Empfehlungen": false,
